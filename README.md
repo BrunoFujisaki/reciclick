@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+<a href="https://www.flaticon.com/br/icones-gratis/arte-de-pixel" title="arte de pixel ícones">Arte de pixel ícones criados por Miguel C Balandrano - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/pixel" title="pixel icons">Pixel icons created by menon - Flaticon</a>
