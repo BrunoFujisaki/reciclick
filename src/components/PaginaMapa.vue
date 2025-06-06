@@ -33,7 +33,7 @@ export default {
       this.map = L.map('map', { zoomControl: false }).setView([-23.4273, -51.9375], 16);
 
       // Adiciona camada de mapa
-      L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.{ext}', {
+      L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         ext: 'png'
       }).addTo(this.map);
     },
